@@ -1,6 +1,6 @@
 # MARU Service Home
 
-**Site**: https://s.co.kr (post-DNS setup)
+**Site**: https://maru-mcp.github.io/maru-web/
 **Stack**: Next.js 14 (App Router · static export) + Tailwind CSS · TypeScript
 **Hosting**: Azure Static Web Apps (Standard tier)
 **Languages**: 한국어 (/ko) + English (/en); root redirects to /ko
