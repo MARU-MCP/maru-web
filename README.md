@@ -1,6 +1,6 @@
 # MARU Service Home
 
-**Site**: https://maru.stis.co.kr (post-DNS setup)
+**Site**: https://s.co.kr (post-DNS setup)
 **Stack**: Next.js 14 (App Router · static export) + Tailwind CSS · TypeScript
 **Hosting**: Azure Static Web Apps (Standard tier)
 **Languages**: 한국어 (/ko) + English (/en); root redirects to /ko
